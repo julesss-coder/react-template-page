@@ -1,0 +1,1 @@
+How do I know when I need to run babel compiler? When I need to initialize npm in a project? We did that in the previous project, but not in this one. Why?
